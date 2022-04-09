@@ -6,7 +6,7 @@ driver = webdriver.Chrome(executable_path= r'.\chromedriver.exe')
 
 
 while True:
-  driver.get("http://azordon.cf/t/1")
+  driver.get("example.com")
   time.sleep(0.1)
   
 
