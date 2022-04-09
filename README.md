@@ -14,7 +14,7 @@ Windows
 open spamBETA.py with notepad
 in 9 line replace example.com with site that you want
 save
-run spam.bat or spam X4.bat
+run spam.bat
 ```
 
 Linux/Mac os
