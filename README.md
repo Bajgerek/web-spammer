@@ -14,6 +14,7 @@ Windows
 open spamBETA.py with notepad
 in 9 line replace example.com with site that you want
 save
+install requirements using pip install -r requirements.txt
 run spam.bat
 ```
 
@@ -22,7 +23,9 @@ Linux/Mac os
 open spamBETA.py with text editor
 in 9 line replace example.com with site that you want
 save
-open terminal in web spammer directory and type python3 ./spamBETA.py
+open terminal in web spammer directory
+install requirements using pip install -r requirements.txt
+type python3 ./spamBETA.py
 ```
 
 i hope you will like it because this is my first python project
